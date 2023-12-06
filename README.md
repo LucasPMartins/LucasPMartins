@@ -7,7 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPMartins&layout=compact&hide_border=true&title_color=bc121c&text_color=bc121c&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LucasPMartins&bg_color=0d1117&color=7c1018&line=bfc7ce&point=510e15&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LucasPMartins&bg_color=0d1117&color=7c1018&line=bfc7ce&point=510e15&area=true&hide_border=true)](https://github.com/LucasPMartins/github-readme-activity-graph)
 
 ### Social Media:
 [![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=Instagram&logoColor=ee0a54)](https://www.instagram.com/lucaas_dpm/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0a39ee)](https://www.linkedin.com/in/lucas-martins-781619286/)
