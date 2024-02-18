@@ -22,6 +22,7 @@
 ### Studying in this moment:
 ![C](https://img.shields.io/badge/c-0D1117?style=for-the-badge&logo=c&logoColor=0a58ee)
 ![Python](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=0a58ee)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
