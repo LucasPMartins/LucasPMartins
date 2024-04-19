@@ -9,10 +9,10 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LucasPMartins&bg_color=0d1117&color=7c1018&line=bfc7ce&point=510e15&area=true&hide_border=true)](https://github.com/LucasPMartins/github-readme-activity-graph)
 
-### Social Media:
+## Social Media:
 [![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=Instagram&logoColor=ee0a54)](https://www.instagram.com/lucaas_dpm/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0a39ee)](https://www.linkedin.com/in/lucas-martins-781619286/)
 
-### Tools:
+## Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse-0D1117.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
@@ -20,11 +20,12 @@
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&logoColor=0a58ee)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&logoColor=ee480a)&nbsp;
 
-### Studying in this moment:
+## Programming and Markup Languages:
 ![C](https://img.shields.io/badge/c-0D1117?style=for-the-badge&logo=c&logoColor=0a58ee)
 ![Python](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Haskell](https://img.shields.io/badge/Haskell-0D1117?style=for-the-badge&logo=haskell&logoColor=purple)
 ![Java](https://img.shields.io/badge/java-0D1117.svg?style=for-the-badge&logo=openjdk&logoColor=orange)
+![Assembly](https://img.shields.io/badge/assembly-0D1117.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
