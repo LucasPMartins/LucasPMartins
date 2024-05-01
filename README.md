@@ -14,11 +14,11 @@
 
 ## Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![Eclipse](https://img.shields.io/badge/Eclipse-0D1117.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-0D1117.svg?style=for-the-badge&logo=Eclipse&logoColor=2f1369)
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&logoColor=0a58ee)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&logoColor=ee480a)&nbsp;
+![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
 
 ## Programming and Markup Languages:
 ![C](https://img.shields.io/badge/c-0D1117?style=for-the-badge&logo=c&logoColor=0a58ee)
