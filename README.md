@@ -21,7 +21,7 @@
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
 ![Replit](https://img.shields.io/badge/Replit-0D1117?style=for-the-badge&logo=Replit&logoColor=fc2c03)
 ![Notion](https://img.shields.io/badge/Notion-0D1117?style=for-the-badge&logo=notion&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-0D1117?style=for-the-badge&logo=rstudio&logoColor=4285F4)
+![RStudio](https://img.shields.io/badge/RStudio-0D1117?style=for-the-badge&logo=rstudio&logoColor=blue)
 
 ## Programming and Markup Languages:
 ![C](https://img.shields.io/badge/c-0D1117?style=for-the-badge&logo=c&logoColor=0a58ee)
