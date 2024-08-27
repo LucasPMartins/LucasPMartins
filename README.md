@@ -21,6 +21,7 @@
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
 ![Replit](https://img.shields.io/badge/Replit-0D1117?style=for-the-badge&logo=Replit&logoColor=fc2c03)
 ![Notion](https://img.shields.io/badge/Notion-0D1117?style=for-the-badge&logo=notion&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-0D1117?style=for-the-badge&logo=rstudio&logoColor=4285F4)
 
 ## Programming and Markup Languages:
 ![C](https://img.shields.io/badge/c-0D1117?style=for-the-badge&logo=c&logoColor=0a58ee)
@@ -28,6 +29,9 @@
 ![Haskell](https://img.shields.io/badge/Haskell-0D1117?style=for-the-badge&logo=haskell&logoColor=purple)
 ![Java](https://img.shields.io/badge/java-0D1117.svg?style=for-the-badge&logo=openjdk&logoColor=orange)
 ![Assembly](https://img.shields.io/badge/assembly-0D1117.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-0D1117?style=for-the-badge&logo=html5&logoColor=%23E34F26)
+![CSS3](https://img.shields.io/badge/css3-0D1117?style=for-the-badge&logo=css3&logoColor=%231572B6)
+![R](https://img.shields.io/badge/r-0D1117?style=for-the-badge&logo=r&logoColor=%23276DC3)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
