@@ -12,17 +12,6 @@
 ## Social Media:
 [![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=Instagram&logoColor=ee0a54)](https://www.instagram.com/lucaas_dpm/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0a39ee)](https://www.linkedin.com/in/lucas-martins-781619286/)
 
-## Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![Eclipse](https://img.shields.io/badge/Eclipse-0D1117.svg?style=for-the-badge&logo=Eclipse&logoColor=FE7A16)
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&logoColor=0a58ee)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
-![Replit](https://img.shields.io/badge/Replit-0D1117?style=for-the-badge&logo=Replit&logoColor=fc2c03)
-![Notion](https://img.shields.io/badge/Notion-0D1117?style=for-the-badge&logo=notion&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-0D1117?style=for-the-badge&logo=rstudio&logoColor=blue)
-
 ## Programming and Markup Languages:
 ![C](https://img.shields.io/badge/c-0D1117?style=for-the-badge&logo=c&logoColor=0a58ee)
 ![Python](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python&logoColor=ffdd54)
