@@ -9,9 +9,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LucasPMartins&bg_color=0d1117&title_color=bc121c&color=c9d1d9&line=510e15&point=510e15&area=true&area_color=510e15&hide_border=true)](https://github.com/LucasPMartins/github-readme-activity-graph)
 
-## Social Media:
-[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=Instagram&logoColor=ee0a54)](https://www.instagram.com/lucaas_dpm/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0a39ee)](https://www.linkedin.com/in/lucas-martins-781619286/)
-
 ## Programming and Markup Languages:
 ![C](https://img.shields.io/badge/c-0D1117?style=for-the-badge&logo=c&logoColor=0a58ee)
 ![Python](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python&logoColor=ffdd54)
